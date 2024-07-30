@@ -7,4 +7,4 @@ By holding up 2 fingers, the user can control their position within the world sp
 
 Attatched in the MemoryFiles folder are example memory files of the new Imperial College London logo. 
 
-![alt text](https://github.com/[sri-yeah]/[Voxel-Ray-Tracer-with-Gesture-control]/blob/main/image.png?raw=true)
+![alt text](https://github.com/sri-yeah/Voxel-Ray-Tracer-with-Gesture-control/blob/main/image.png?raw=true)
