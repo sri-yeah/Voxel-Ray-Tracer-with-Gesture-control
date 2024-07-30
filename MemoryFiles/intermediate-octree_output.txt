@@ -1,0 +1,129 @@
+0: Node 0: Material ID = None, MID1 = False, First Child Index = 1
+1: Node 1: Material ID = None, MID1 = False, First Child Index = 25
+2: Node 2: Material ID = None, MID1 = False, First Child Index = 3
+3: Node 19: Material ID = None, MID1 = False, First Child Index = 65
+4: Node 20: Material ID = None, MID1 = False, First Child Index = 49
+5: Node 21: Material ID = None, MID1 = False
+6: Node 22: Material ID = None, MID1 = False
+7: Node 23: Material ID = None, MID1 = False
+8: Node 24: Material ID = None, MID1 = False
+9: Node 25: Material ID = None, MID1 = False
+10: Node 26: Material ID = None, MID1 = False
+11: Node 27: Material ID = None, MID1 = False
+12: Node 28: Material ID = None, MID1 = False
+13: Node 29: Material ID = None, MID1 = False
+14: Node 30: Material ID = None, MID1 = False, First Child Index = 31
+15: Node 39: Material ID = None, MID1 = False
+16: Node 40: Material ID = None, MID1 = False
+17: Node 3: Material ID = None, MID1 = False
+18: Node 4: Material ID = None, MID1 = False
+19: Node 5: Material ID = None, MID1 = False
+20: Node 6: Material ID = None, MID1 = False
+21: Node 7: Material ID = None, MID1 = False, First Child Index = 8
+22: Node 16: Material ID = None, MID1 = False, First Child Index = 89
+23: Node 17: Material ID = None, MID1 = False, First Child Index = 41
+24: Node 18: Material ID = None, MID1 = False
+25: Node 65: Material ID = None, MID1 = False
+26: Node 66: Material ID = None, MID1 = False
+27: Node 67: Material ID = None, MID1 = False
+28: Node 68: Material ID = None, MID1 = False
+29: Node 69: Material ID = None, MID1 = False
+30: Node 70: Material ID = None, MID1 = False, First Child Index = 71
+31: Node 79: Material ID = None, MID1 = False
+32: Node 80: Material ID = None, MID1 = False
+33: Node 49: Material ID = None, MID1 = False
+34: Node 50: Material ID = None, MID1 = False
+35: Node 51: Material ID = None, MID1 = False
+36: Node 52: Material ID = None, MID1 = False
+37: Node 53: Material ID = None, MID1 = False, First Child Index = 54
+38: Node 62: Material ID = None, MID1 = False, First Child Index = 113
+39: Node 63: Material ID = None, MID1 = False
+40: Node 64: Material ID = None, MID1 = False
+41: Node 31: Material ID = None, MID1 = False
+42: Node 32: Material ID = None, MID1 = False
+43: Node 33: Material ID = None, MID1 = False
+44: Node 34: Material ID = None, MID1 = False
+45: Node 35: Material ID = None, MID1 = False, First Child Index = 81
+46: Node 36: Material ID = (16, 1, 207), MID1 = False
+47: Node 37: Material ID = None, MID1 = False
+48: Node 38: Material ID = None, MID1 = False
+49: Node 8: Material ID = None, MID1 = False
+50: Node 9: Material ID = None, MID1 = False
+51: Node 10: Material ID = None, MID1 = False
+52: Node 11: Material ID = None, MID1 = False
+53: Node 12: Material ID = (16, 1, 207), MID1 = False
+54: Node 13: Material ID = (16, 1, 207), MID1 = False
+55: Node 14: Material ID = (16, 1, 207), MID1 = False
+56: Node 15: Material ID = None, MID1 = False
+57: Node 89: Material ID = None, MID1 = False
+58: Node 90: Material ID = None, MID1 = False
+59: Node 91: Material ID = None, MID1 = False
+60: Node 92: Material ID = None, MID1 = False
+61: Node 93: Material ID = None, MID1 = False, First Child Index = 94
+62: Node 102: Material ID = None, MID1 = False
+63: Node 103: Material ID = None, MID1 = False
+64: Node 104: Material ID = None, MID1 = False
+65: Node 41: Material ID = None, MID1 = False
+66: Node 42: Material ID = None, MID1 = False
+67: Node 43: Material ID = None, MID1 = False
+68: Node 44: Material ID = None, MID1 = False
+69: Node 45: Material ID = (16, 1, 207), MID1 = False
+70: Node 46: Material ID = None, MID1 = False
+71: Node 47: Material ID = (16, 1, 207), MID1 = False
+72: Node 48: Material ID = None, MID1 = False
+73: Node 71: Material ID = None, MID1 = False
+74: Node 72: Material ID = None, MID1 = False
+75: Node 73: Material ID = None, MID1 = False
+76: Node 74: Material ID = None, MID1 = False
+77: Node 75: Material ID = None, MID1 = False
+78: Node 76: Material ID = None, MID1 = False
+79: Node 77: Material ID = None, MID1 = False, First Child Index = 105
+80: Node 78: Material ID = (16, 1, 207), MID1 = False
+81: Node 54: Material ID = None, MID1 = False
+82: Node 55: Material ID = None, MID1 = False
+83: Node 56: Material ID = None, MID1 = False
+84: Node 57: Material ID = None, MID1 = False
+85: Node 58: Material ID = (16, 1, 207), MID1 = False
+86: Node 59: Material ID = None, MID1 = False
+87: Node 60: Material ID = (16, 1, 207), MID1 = False
+88: Node 61: Material ID = (16, 1, 207), MID1 = False
+89: Node 113: Material ID = None, MID1 = False
+90: Node 114: Material ID = None, MID1 = False
+91: Node 115: Material ID = None, MID1 = False
+92: Node 116: Material ID = None, MID1 = False
+93: Node 117: Material ID = None, MID1 = False
+94: Node 118: Material ID = None, MID1 = False
+95: Node 119: Material ID = None, MID1 = False, First Child Index = 120
+96: Node 128: Material ID = None, MID1 = False
+97: Node 81: Material ID = None, MID1 = False
+98: Node 82: Material ID = (16, 1, 207), MID1 = False
+99: Node 83: Material ID = None, MID1 = False
+100: Node 84: Material ID = (16, 1, 207), MID1 = False
+101: Node 85: Material ID = None, MID1 = False
+102: Node 86: Material ID = (16, 1, 207), MID1 = False
+103: Node 87: Material ID = None, MID1 = False
+104: Node 88: Material ID = (16, 1, 207), MID1 = False
+105: Node 94: Material ID = (16, 1, 207), MID1 = False
+106: Node 95: Material ID = None, MID1 = False
+107: Node 96: Material ID = (16, 1, 207), MID1 = False
+108: Node 97: Material ID = None, MID1 = False
+109: Node 98: Material ID = (16, 1, 207), MID1 = False
+110: Node 99: Material ID = None, MID1 = False
+111: Node 100: Material ID = (16, 1, 207), MID1 = False
+112: Node 101: Material ID = None, MID1 = False
+113: Node 105: Material ID = None, MID1 = False
+114: Node 106: Material ID = (16, 1, 207), MID1 = False
+115: Node 107: Material ID = None, MID1 = False
+116: Node 108: Material ID = (16, 1, 207), MID1 = False
+117: Node 109: Material ID = None, MID1 = False
+118: Node 110: Material ID = (16, 1, 207), MID1 = False
+119: Node 111: Material ID = None, MID1 = False
+120: Node 112: Material ID = (16, 1, 207), MID1 = False
+121: Node 120: Material ID = (16, 1, 207), MID1 = False
+122: Node 121: Material ID = None, MID1 = False
+123: Node 122: Material ID = (16, 1, 207), MID1 = False
+124: Node 123: Material ID = None, MID1 = False
+125: Node 124: Material ID = (16, 1, 207), MID1 = False
+126: Node 125: Material ID = None, MID1 = False
+127: Node 126: Material ID = (16, 1, 207), MID1 = False
+128: Node 127: Material ID = None, MID1 = False
